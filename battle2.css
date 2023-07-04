@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.ekran{
+    width: 100%;
+    height: 100vh;
+    background: dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.teva{
+    width: 250px;
+    height: 400px;
+    background: gold;
+    border-radius: 150px 150px 80px 80px;
+}
+.pas{
+    width: 80px;
+    height: 150px;
+    background: red;
+    border-radius: 0px 0px 30px 30px;
+}
+.h1{
+    text-align: center;
+    color: red;
+}
+.rang{
+    color: red;
+    font-family: cursive;
+}
+.ikki{
+    color: blue;
+    font-family: cursive;
+}
